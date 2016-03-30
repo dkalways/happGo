@@ -1,4 +1,4 @@
-package org.iiiedu.michael.HappGo;
+package edu.iii.happGo.happgo;
 
 import javax.servlet.GenericServlet;
 import javax.servlet.ServletException;

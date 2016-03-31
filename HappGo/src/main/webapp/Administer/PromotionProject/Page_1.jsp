@@ -22,7 +22,7 @@
 </head>
 <body>
 	<form
-		action="<c:url value="/PromotionProject/HG_PromotionProject.controller" />"
+		action="<c:url value="/PromotionProject/PromotionProject.controller" />"
 		method="get">
 		<table>
 			<tr>
